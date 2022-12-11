@@ -2,7 +2,7 @@
 
 **Descripción**
 
-Prediccion de futuras ventas para campañan de markenting bancaria.
+Aplicacion de algortimos predictivos para campaña de marketing bancaria.
 
 Autor
 **Diana Luis**
